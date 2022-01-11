@@ -1,0 +1,112 @@
+body{
+    width:  1024px;
+
+    font: 1em sans-serif;
+}
+header{
+    height: 100px;
+    width:1020px;
+    
+    background-color: greenyellow;
+    border:2px;
+    border-bottom: 1px;
+    border-color: black;
+    border-style: solid;
+}
+h1{
+    float: left;
+    margin: 0px;
+    height: inherit;
+    
+    border: 0px;
+    border-right: 2px;
+    border-color: black;
+    border-style: solid;
+}
+ul.link{
+    list-style-type: none;  
+    margin: 0px; 
+
+}
+ul.link li{
+    
+    float: left;
+    width: 100px;
+    height:100px;
+    background-color: rgb(243, 243, 16);
+    text-align: center;
+    
+    border: 0px;
+    border-right: 2px;
+    border-color: black;
+    border-style: solid;
+    
+}
+.login{
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin-left: 526px;
+    text-align: center;
+    background-color: rgb(243, 126, 16);
+
+    border: 0px;
+    border-left: 2px;
+    border-color: black;
+    border-style: solid;
+}
+div.ind{
+    width: 721px;
+    height: 600px;
+    background-color: chocolate;
+    float: left;
+    border:1px;
+    border-left: 2px;
+    border-color: black;
+    border-style: solid;
+}
+h2.con{
+    width: 170px;
+    height: 50px;
+    margin-left: 75px;
+    background-color: darkgray; 
+}
+.subt{
+    width: 400px;
+    height: 175px;
+    margin:auto;
+    background-color: darkgray; 
+}
+article{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 30px;
+    background-color: darkgray;
+}
+aside{
+    float:left;
+    height: 600px;
+    width: 297px;
+    background-color: darkseagreen;
+    border:1px;
+    border-right: 2px;
+    border-color: black;
+    border-style: solid;
+}
+footer{
+    width: 1020px;
+    height: 75px;
+    float: right;
+    background-color: dodgerblue;
+    border:2px;
+    border-top: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
