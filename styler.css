@@ -17,7 +17,7 @@ h1{
     float: left;
     margin: 0px;
     height: inherit;
-    
+    width: 100px;    
     border: 0px;
     border-right: 2px;
     border-color: black;
@@ -46,7 +46,7 @@ ul.link li{
     float: left;
     width: 100px;
     height: 100px;
-    margin-left: 526px;
+    margin-left: 510px;
     text-align: center;
     background-color: rgb(243, 126, 16);
 
@@ -55,7 +55,7 @@ ul.link li{
     border-color: black;
     border-style: solid;
 }
-div.ind{
+.ind{
     width: 721px;
     height: 600px;
     background-color: chocolate;
@@ -65,17 +65,23 @@ div.ind{
     border-color: black;
     border-style: solid;
 }
-h2.con{
+h2{
     width: 170px;
     height: 50px;
     margin-left: 75px;
     background-color: darkgray; 
+    border:2px;
+    border-color: black;
+    border-style: solid;
 }
 .subt{
     width: 400px;
     height: 175px;
     margin:auto;
     background-color: darkgray; 
+    border:2px;
+    border-color: black;
+    border-style: solid;
 }
 article{
     float: left;
@@ -84,6 +90,9 @@ article{
     margin-left: 100px;
     margin-top: 30px;
     background-color: darkgray;
+    border:2px;
+    border-color: black;
+    border-style: solid;
 }
 aside{
     float:left;
@@ -105,7 +114,26 @@ footer{
     border-color: black;
     border-style: solid;
 }
-
+.logincontent{
+    width: 1020px;
+    height: 500px;
+    background-color: chocolate;
+    border:1px;
+    border-left: 2px;
+    border-right: 2px;
+    border-color: black;
+    border-style: solid;
+}
+form{
+    width: 600px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 30px;
+    background-color: darkgray;
+    border:2px;
+    border-color: black;
+    border-style: solid;
+}
 a{
     text-decoration: none;
     color: black;
